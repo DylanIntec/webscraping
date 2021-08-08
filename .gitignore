@@ -1,0 +1,7 @@
+*.log
+.ipynb_checkpoints
+/__pycache__
+.DS_Store
+settings.json
+_notebooks_not_for_binder
+combine.ipynb
